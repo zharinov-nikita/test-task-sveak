@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply m-auto max-w-md bg-slate-50 px-4 pb-2 pt-2;
+}

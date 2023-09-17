@@ -1,0 +1,64 @@
+# TEST-TASK-SVEAK-BACKEND
+
+# compiled output
+/test-task-sveak-backend/dist
+/test-task-sveak-backend/node_modules
+
+# Logs
+/test-task-sveak-backend/logs
+/test-task-sveak-backend/*.log
+/test-task-sveak-backend/npm-debug.log*
+/test-task-sveak-backend/pnpm-debug.log*
+/test-task-sveak-backend/yarn-debug.log*
+/test-task-sveak-backend/yarn-error.log*
+/test-task-sveak-backend/lerna-debug.log*
+
+# OS
+/test-task-sveak-backend/.DS_Store
+
+# Tests
+/test-task-sveak-backend//coverage
+/test-task-sveak-backend//.nyc_output
+
+# IDEs and editors
+/test-task-sveak-backend//.idea
+/test-task-sveak-backend/.project
+/test-task-sveak-backend/.classpath
+/test-task-sveak-backend/.c9/
+/test-task-sveak-backend/*.launch
+/test-task-sveak-backend/.settings/
+/test-task-sveak-backend/*.sublime-workspace
+
+# IDE - VSCode
+/test-task-sveak-backend/.vscode/*
+/test-task-sveak-backend/!.vscode/settings.json
+/test-task-sveak-backend/!.vscode/tasks.json
+/test-task-sveak-backend/!.vscode/launch.json
+/test-task-sveak-backend/!.vscode/extensions.json
+
+# TEST-TASK-SVEAK-FRONTEND
+
+# Logs
+/test-task-sveak-frontend/logs
+/test-task-sveak-frontend/*.log
+/test-task-sveak-frontend/npm-debug.log*
+/test-task-sveak-frontend/yarn-debug.log*
+/test-task-sveak-frontend/yarn-error.log*
+/test-task-sveak-frontend/pnpm-debug.log*
+/test-task-sveak-frontend/lerna-debug.log*
+
+/test-task-sveak-frontend/node_modules
+/test-task-sveak-frontend/dist
+/test-task-sveak-frontend/dist-ssr
+/test-task-sveak-frontend/*.local
+
+# Editor directories and files
+/test-task-sveak-frontend/.vscode/*
+/test-task-sveak-frontend/!.vscode/extensions.json
+/test-task-sveak-frontend/.idea
+/test-task-sveak-frontend/.DS_Store
+/test-task-sveak-frontend/*.suo
+/test-task-sveak-frontend/*.ntvs*
+/test-task-sveak-frontend/*.njsproj
+/test-task-sveak-frontend/*.sln
+/test-task-sveak-frontend/*.sw?

@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`utilFormatMeta > должна правильно форматировать метаданные с отсутствующими полями 1`] = `"Alice Smith •"`;
+
+exports[`utilFormatMeta > должна правильно форматировать метаданные с пустыми полями 1`] = `""`;
+
+exports[`utilFormatMeta > должна правильно форматировать метаданные с числовыми значениями 1`] = `"Bob Brown • 1631731200 • 3.75"`;
+
+exports[`utilFormatMeta > должна правильно форматировать метаданные со всеми полями 1`] = `"John Doe • 2023-09-15 • 4.5"`;
